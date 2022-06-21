@@ -87,11 +87,11 @@
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/Alien-alfa/WhatsAppBot-MD/fork"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+  <a href="https://github.com/Das-x5/WhatsAppBot-MD/fork"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
 <br>
 # `Scan QR Code For Session`
  
-<a href="https://bit.ly/3MnJRjE"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://bit.ly/3MnJRjE"><img title"░▒▓█ 𝐓𝐨𝐱𝐢𝐜_𝐬𝐞𝐫 █▓▒░" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
 # `Change Session In Github`
 
@@ -112,7 +112,7 @@ OR
   # `Deploy In Heroku`
 
 
-<a href="https://gist.github.com/Alien-alfa/4a3f940e9e65eee62fd76ffebf302cf1"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href="https://gist.github.com/Das-x5/4a3f940e9e65eee62fd76ffebf302cf1"><img title="Das-x5" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
 
   
