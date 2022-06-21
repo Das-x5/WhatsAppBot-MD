@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/⚠️INFO-fixing%20This%20reop/%20it%20will%20be%20public%20from%2010pm-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/Das-x5"><img title="Support" src="https://img.shields.io/badge/⚠️INFO-fixing%20This%20reop/%20it%20will%20be%20public%20from%2010pm-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 
@@ -14,7 +14,7 @@
 
 
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/maintained-yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/Das-x5"><img title="Support" src="https://img.shields.io/badge/maintained-yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 
@@ -24,11 +24,11 @@
 
 <br>
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/current%20Status-Updates%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/Das-x5"><img title="Support" src="https://img.shields.io/badge/current%20Status-Updates%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 <br>
 <p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/next%20update-undefined!-green.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/Das-x5"><img title="Support" src="https://img.shields.io/badge/next%20update-undefined!-green.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 
@@ -39,7 +39,7 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/_the_soul_rider_/"><img src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
+  <a href="https://www.instagram.com/_das.x/"><img src="https://i.imgur.com/wMWyR3G.jpg?raw=true" width="500" alt="Profile"/> </a>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alien-Alfa"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/Das-x5"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 <p align="center">
@@ -59,11 +59,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alien-Alfa"><img title="Developer" src="https://img.shields.io/badge/Author-Alien%20Alfa-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Das-x5"><img title="Developer" src="https://img.shields.io/badge/Author-Alien%20Alfa-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <br><br><br>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JKdPcantKre0Mx3mzNUdIu"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/Alien-alfa/PublicBot/main/wlogo.svg.png" width="600"></a>
+  <a href="https://chat.whatsapp.com/KtRkNG16m0H5J9Djgmtvg0"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/Alien-alfa/PublicBot/main/wlogo.svg.png" width="600"></a>
 </p>
 <br><br>
 <p align="center">
@@ -124,7 +124,7 @@ OR
 
 
   ### ⚠️ Deploy With New Session? <br>
-Click [FORK](https://github.com/Alien-Alfa/WhatsAppBot-MD/fork) <br>
+Click [FORK](https://github.com/Das-x5/WhatsAppBot-MD/fork) <br>
   
 Now copy this url and change GITHUBID with your github username and click GO <br>.
 
