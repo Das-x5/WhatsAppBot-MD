@@ -1,7 +1,7 @@
 {
-  "name": "AlienAlfaBot-MD",
+  "name": "ToxicBot-MD",
   "version": "2.1.0",
-  "description": "Beta Test By an Alien",
+  "description": "Beta Test By an Das",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -21,7 +21,7 @@
     "2021",
     "wabase-md"
   ],
-  "author": "Alien-Alfa.",
+  "author": "Das-x5.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -73,10 +73,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alien-Alfa/WhatsAppBot-MD.git"
+    "url": "git+https://github.com/Das-x5/WhatsAppBot-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Alien-Alfa/WhatsAppBot-MD/issues"
+    "url": "https://github.com/Das-x5/WhatsAppBot-MD/issues"
   },
-  "homepage": "https://github.com/Alien-Alfa/WhatsAppBot-MD#readme"
+  "homepage": "https://github.com/Das-x5/WhatsAppBot-MD#readme"
 }
